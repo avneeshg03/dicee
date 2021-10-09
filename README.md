@@ -20,7 +20,8 @@ The objective of this tutorial is to introduce you to the core programming conce
 
 ## What the App is?
 We’re going to make a dice app. You can make the die roll at the press of a button. With this app in your pocket, you’ll be able to settle any score on the go!
-<a href='https://raw.githubusercontent.com/londonappbrewery/Images/master/dicee-demo.gif'></a>
+
+-[How it looks](https://raw.githubusercontent.com/londonappbrewery/Images/master/dicee-demo.gif)
 
 ## What i Learnt?
 -> THe use of Staful widgets
